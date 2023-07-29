@@ -1,0 +1,10 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*(Guess The Number)-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+-*-*-*-*-*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-*-*- *--*-*-*-*-*-*-*-*-*-
+Introducing the 'Guess the Number' game, a fun and interactive Java software! 
+It's simple to play and revolves around guessing a number between 1 and 100. 
+Simply enter your prediction, and the software will inform you if it is too high or low. 
+Try several numbers until you discover the one that works! 🎯💡 
+The software will display how many tries it took for each right guess. 
+You can restart the game or end it by typing "no" if you wish to have less fun. 
+It's an easy way to challenge your guessing abilities while having fun! 
+Try it out right now! 
