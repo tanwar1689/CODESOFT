@@ -1,0 +1,12 @@
+*-*-*-*-*-*-*--**-*-*-*-*-*-*-*-*-*-*-*-*-*-*(Word Counter)-*-*-*-*-*-*-*-*-*-*-*-*-*-*--**-*-*-*-*-*-*-*-*
+*-*-*-*-*-*-*--**-*-*-*-*-*-*-*-**-*-*-*-*-*-*--**-*-*-*-*-*-*-*-**-*-*-*-*-*-*--**-*-*-*-*-*-*-*-**-*-*-*
+Users can determine the word count of a given text using the Word Counter Java application. 
+There are two ways to enter text into it: manually or by reading text from a file. 
+The application makes use of a number of techniques to analyse the input text and give insightful word analysis.
+
+When the software is run, the user is given the option of manually entering the text or selecting a file. 
+The user can enter the text directly if they choose manual entry. 
+They must supply the file path if they opt to provide a file.
+
+The countWords method is then used by the application to determine the total number of words in the input text. 
+Whitespace is used to divide the text into an array of words.
